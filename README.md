@@ -1,5 +1,7 @@
 ###DOCKER DRUPAL 8 RELEASE
 
+You will need docker-compose to be installed in order to use the following scripts:
+
 - "start.sh" to build the image and launch web and db containers.
 - "recreate.sh" to delete current containers and recreate them.
 - "install.sh" <b>after install or recreate</b> to drupal standard profile quick install.

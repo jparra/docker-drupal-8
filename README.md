@@ -8,3 +8,5 @@ You will need docker-compose to be installed in order to use the following scrip
 
 Image includes drush 8.0.0-rc4 and git.
 
+By default it runs on port 8080 therefore to load the application: localhost:8080
+
